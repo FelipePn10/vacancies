@@ -1,0 +1,10 @@
+com\management\vacancies\modules\candidate\controllers\CandidateController.class
+com\management\vacancies\exceptions\ErrorMessageDTO.class
+com\management\vacancies\modules\company\entities\CompanyEntity.class
+com\management\vacancies\modules\company\entities\JobEntity.class
+com\management\vacancies\modules\candidate\useCases\CreateCandidateUseCase.class
+com\management\vacancies\exceptions\ExceptionHandlerController.class
+com\management\vacancies\exceptions\UserFoundExecption.class
+com\management\vacancies\modules\candidate\CandidateEntity.class
+com\management\vacancies\modules\candidate\CandidateRepository.class
+com\management\vacancies\VacanciesApplication.class
